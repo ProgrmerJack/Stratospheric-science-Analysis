@@ -1,6 +1,14 @@
 # Near-Space Science via Open Archives
 
-This directory pairs NOAA IGRA upper-air soundings with NASA AERONET Level 2.0 aerosol records to emulate a high-altitude student payload (“HASP without balloons”).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17792123.svg)](https://doi.org/10.5281/zenodo.17792123)
+
+This directory pairs NOAA IGRA upper-air soundings with NASA AERONET Level 2.0 aerosol records to emulate a high-altitude student payload ("HASP without balloons").
+
+## Data Availability
+
+**Zenodo Archive:** [10.5281/zenodo.17792123](https://doi.org/10.5281/zenodo.17792123)
+
+All processed data, analysis scripts, and outputs are archived for reproducibility.
 
 ## Data inventory
 
